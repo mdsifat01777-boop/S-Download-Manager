@@ -1,0 +1,37 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- Stylized Modern 'S' Download Logo for S Download -->
+    <!-- Gradient S upper curve -->
+    <path
+        android:fillColor="#00000000"
+        android:strokeColor="#06B6D4"
+        android:strokeWidth="7"
+        android:strokeLineCap="round"
+        android:pathData="M66,28 C56,22 42,22 36,30 C30,38 34,48 54,54 C74,60 78,70 72,78 C66,86 50,86 38,80" />
+    
+    <!-- Central Download Arrow Accent -->
+    <path
+        android:fillColor="#00000000"
+        android:strokeColor="#6366F1"
+        android:strokeWidth="5"
+        android:strokeLineCap="round"
+        android:pathData="M54,34 L54,64" />
+    <path
+        android:fillColor="#00000000"
+        android:strokeColor="#6366F1"
+        android:strokeWidth="5"
+        android:strokeLineCap="round"
+        android:strokeLineJoin="round"
+        android:pathData="M44,54 L54,64 L64,54" />
+
+    <!-- Modern Tray Glow Accent -->
+    <path
+        android:fillColor="#00000000"
+        android:strokeColor="#A855F7"
+        android:strokeWidth="5"
+        android:strokeLineCap="round"
+        android:pathData="M38,72 L70,72" />
+</vector>
